@@ -9,10 +9,6 @@
   ],
   "private": true,
   "scripts": {
-    "subgraph:auth": "yarn workspace @my-app/subgraph auth",
-    "subgraph:codegen": "yarn workspace @my-app/subgraph codegen",
-    "subgraph:build": "yarn workspace @my-app/subgraph build",
-    "subgraph:deploy": "yarn workspace @my-app/subgraph deploy",
     "react-app:build": "yarn workspace @my-app/react-app build",
     "react-app:eject": "yarn workspace @my-app/react-app eject",
     "react-app:ipfs": "yarn workspace @my-app/react-app ipfs",
@@ -23,5 +19,10 @@
     "packages": [
       "packages/*"
     ]
+  },
+  "overrides": {
+    "react-error-overlay": {
+      "version": "6.0.9"
+    }
   }
 }
