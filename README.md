@@ -1,7 +1,7 @@
 
 # Uniswap Clone
 
-> Uniswap clone is a decentralized exchange (DEX) built on Ethereum. It allows users to trade ERC-20 tokens directly from their wallets without the need to deposit them to an exchange. Uniswap is a protocol for automated liquidity provision on Ethereum.
+> Uniswap clone is a decentralized exchange (DEX) built on goerli testnet of Ethereum. It allows users to trade ERC-20 tokens directly from their wallets without the need to deposit them to an exchange. Uniswap is a protocol for automated liquidity provision on Ethereum.
 
 ## Tools & Technologies
 
