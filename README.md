@@ -2,7 +2,7 @@ This project was bootstrapped with [Create Eth App](https://github.com/paulrberg
 
 ## Live link
 
-[live](uniswap-clone-ova.netlify.app)
+[live](https://uniswap-clone-ova.netlify.app)
 
 ## Project Structure
 
