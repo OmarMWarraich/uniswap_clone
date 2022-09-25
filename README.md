@@ -50,7 +50,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thank You JavaScript Mastery team.
+- Thank You JavaScript Mastery team for this informative video.
+- [Uniswap Clone](- [Uniswap Clone](https://www.youtube.com/watch?v=Y89q6T1r1Yg)
 - Thanks to everyone who will get time to check this code and suggest any [issues](https://github.com/OmarMWarraich/uniswap_clone/issues)
 
 ## License
