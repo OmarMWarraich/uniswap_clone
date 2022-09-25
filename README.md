@@ -8,6 +8,7 @@
 - Create eth-app using create-react-app.
 - React hooks for state management.
 - CRANQ IDE for smart contract deployment, development and ABIs integration.
+- Metamask extension download in local browser for connecting to the blockchain.
 
 ## Live Demo 
 
@@ -28,6 +29,7 @@ npm run react-app:start
 
 - node.js
 - npm
+- [Metamask wallet](https://metamask.io/download/)
 
 ## Author
 
