@@ -5,13 +5,13 @@
 
 ## Tools & Technologies
 
-- Create eth-app
-- React hooks
-- CRANQ is the unique new low-code authoring environment that lets developers code faster, and helps beginners to write javascript without coding.
+- Create eth-app using create-react-app.
+- React hooks for state management.
+- CRANQ IDE for smart contract deployment, development and ABIs integration.
 
 ## Live Demo 
 
-[live](https://uniswap-clone-ova.netlify.app)
+[Click me!](https://uniswap-clone-ova.netlify.app)
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ npm install
 npm run react-app:start
 ```
 
-## Pre-requisites
+## Pre-requisites:point_right:
 
 - node.js
 - npm
@@ -50,8 +50,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thank You JavaScript Mastery team for this informative video.
-- [Uniswap Clone](- [Uniswap Clone](https://www.youtube.com/watch?v=Y89q6T1r1Yg)
+- :arrow_down: Thank You JavaScript Mastery team for this amazing video. :arrow_forward: [UniswapClone](https://www.youtube.com/watch?v=Vqg0ZzKJXQs)
 - Thanks to everyone who will get time to check this code and suggest any [issues](https://github.com/OmarMWarraich/uniswap_clone/issues)
 
 ## License
