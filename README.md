@@ -24,7 +24,7 @@ npm install
 npm run react-app:start
 ```
 
-## Pre-requisites:point_right:
+## Pre-requisites
 
 - node.js
 - npm
@@ -50,7 +50,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- :arrow_down: Thank You JavaScript Mastery team for this amazing video. :arrow_forward: [UniswapClone](https://www.youtube.com/watch?v=Vqg0ZzKJXQs)
+- Thank You JavaScript Mastery team for this amazing video. :arrow_forward: [UniswapClone](https://www.youtube.com/watch?v=Vqg0ZzKJXQs)
 - Thanks to everyone who will get time to check this code and suggest any [issues](https://github.com/OmarMWarraich/uniswap_clone/issues)
 
 ## License
